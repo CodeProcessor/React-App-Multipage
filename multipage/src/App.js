@@ -3,7 +3,7 @@ import AllMeetupsPage from "./pages/AllMeetups";
 import NewMeetup from "./pages/NewMeetuo";
 import Favourite from "./pages/Favourites";
 
-import MainNavigation from "./components/layout'/MainNavigation";
+import MainNavigation from "./components/layout/MainNavigation";
 
 
 function App() {
